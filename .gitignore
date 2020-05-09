@@ -1,3 +1,28 @@
+## temporary files:
+..gitignore.un~
+.gitignore~ 
+
+## Microsoft Office temporary files:
+*.tmp
+
+# Word temporary
+~$*.doc*
+
+# Word Auto Backup File
+Backup of *.doc*
+
+# Excel temporary
+~$*.xls*
+
+# Excel Backup File
+*.xlk
+
+# PowerPoint temporary
+~$*.ppt*
+
+# Visio autosave temporary files
+*.~vsd*
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
