@@ -1,6 +1,9 @@
+## do not sync this:
+UpdateInTeams.py
+
 ## temporary files:
 ..gitignore.un~
-.gitignore~ 
+.gitignore~
 
 ## Microsoft Office temporary files:
 *.tmp
