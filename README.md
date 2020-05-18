@@ -17,4 +17,4 @@
 
 ### Windows 10
 - [Windows 10 - Anmelden bei Microsoft Teams](https://github.com/rtotheb2000/Sophie-Charlotte-Gymnasium-Anleitungen-Microsoft-Teams/raw/master/Windows%2010%20-%20Anmelden%20bei%20Microsoft%20Teams.pdf)
-- [Windows 10 - Fotos in einer Word-Datei zusammenführen  und bei Microsoft Teams als Aufgabe abgeben](https://github.com/rtotheb2000/Sophie-Charlotte-Gymnasium-Anleitungen-Microsoft-Teams/raw/master/Windows%2010%20-%20Fotos%20in%20einer%20Word-Datei%20zusammenf%C3%BChren%20f%C3%BCr%20vereinfachte%20Korrektur.pdf)
+- [Windows 10 - Fotos in einer Word-Datei zusammenführen  und bei Microsoft Teams als Aufgabe abgeben](https://github.com/rtotheb2000/Sophie-Charlotte-Gymnasium-Anleitungen-Microsoft-Teams/raw/master/Windows%2010%20-%20Fotos%20in%20einer%20Word-Datei%20zusammenf%C3%BChren%20und%20abgeben.pdf)
